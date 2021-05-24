@@ -1,3 +1,4 @@
 # NotePad
 This is an AndroidStudio rebuild of google SDK sample NotePad
-![image](https://user-images.githubusercontent.com/83945136/119346874-55478480-bccd-11eb-9b92-aea8975b68d4.png)
+![image](https://user-images.githubusercontent.com/83945136/119346967-71e3bc80-bccd-11eb-8c4b-c0a9db3e3511.png)
+
